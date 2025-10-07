@@ -9,5 +9,5 @@ Features
 - Margin estimate by leverage
 - Pip value override for crosses
 
-For demo,, visit:
+For demo, visit:
 https://www.compareforexbrokers.com/calculators/profit-loss/
